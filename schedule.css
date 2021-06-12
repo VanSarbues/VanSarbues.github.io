@@ -1,0 +1,21 @@
+body{
+
+  background-image: url("FB_IMG_16212215889204187.jpg"), url("FB_IMG_16212215993799498.jpg");
+
+  background-position: right bottom, right top;
+
+  background-size: 600px 500px;
+
+  background-repeat: no-repeat, no-repeat;
+
+  padding: 10px;
+
+}
+
+h1{
+
+  color: black;
+
+  font-family: Cursive;
+
+}
